@@ -1,0 +1,7 @@
+Lists all the files in the `/home/data` directory
+['IF.txt', 'Limerick.txt', 'result.txt'] 
+Words in `IF.txt` file is - 287
+Words in `Limerick.txt` file is - 32
+Total Number of words in both files - `319`
+Top three words and their counts - `[('you', 14), ('If', 13), ('can', 12)]`
+IP Address of this machine - `172.20.0.2`

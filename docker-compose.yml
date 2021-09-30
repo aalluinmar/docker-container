@@ -1,0 +1,8 @@
+version: '2'
+services:
+  web:
+    build: .
+    container_name: docker_container
+    volumes:
+      - .:/code
+    command: bash entrypoint.sh
